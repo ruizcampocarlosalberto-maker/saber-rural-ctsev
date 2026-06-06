@@ -1,0 +1,17 @@
+{
+  "name": "saber-rural",
+  "version": "1.0.0",
+  "description": "SABER RURAL — Recurso Educativo Digital para Ciencias Naturales 11°",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
